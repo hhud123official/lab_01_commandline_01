@@ -17,7 +17,12 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-
+AMALogger20190109.log	Documents		Music			Things
+Adlm			Downloads		New Unity Project	ipe.properties
+Adobe			Library			Pictures		isus
+Applications		MPLABXProjects		Public			pymel.log
+Desktop			Movies			QLData			xgen
+ent-v314-008:~ student$ 
 
 
 ==========
@@ -27,18 +32,29 @@ $ ls D<TAB>
 
 What happens?  Describe it below.
 ----------
+ent-v314-008:~ student$ D
+
 
 
 
 ==========
 2b. Press <TAB> one more time.  Copy and paste the output below.
 ----------
+ent-v314-008:~ student$ D
+DeRez             DevToolsSecurity  DirectoryService  
+ent-v314-008:~ student$ D
+
+
 
 
 
 ==========
 2c. Now press <ENTER>. Copy and paste the output below.
 ----------
+ent-v314-008:~ student$ D
+DeRez             DevToolsSecurity  DirectoryService  
+ent-v314-008:~ student$ D
+
 
 
 
@@ -49,8 +65,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
-
+ent-v314-008:~ student$ -l Documents
+-bash: -l: command not found
 
 ==========
 4.  Type:
@@ -59,8 +75,14 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-
-
+ent-v314-008:~ student$ ls -a Documents
+.			Adobe Flash Builder 4.7	MuseLog.txt		Temporary Work
+..			Arduino			NewBlue			Unreal Projects
+.DS_Store		Avid Projects		Pd			Untitled
+.TmThBHyOVRrMJdi0	Fritzing		Pro Tools		eagle
+.localized		MATLAB			Processing		iChats
+Ableton			MakeHuman		REAPER Media		maya
+Adobe			Max 7	
 
 ==========
 5.  Type:
@@ -69,6 +91,16 @@ Copy and paste the first *two lines* of output below.
 
 What command was repeated?
 ----------
+ent-v314-008:~ student$ ls -a Documents
+.			Adobe Flash Builder 4.7	MuseLog.txt		Temporary Work
+..			Arduino			NewBlue			Unreal Projects
+.DS_Store		Avid Projects		Pd			Untitled
+.TmThBHyOVRrMJdi0	Fritzing		Pro Tools		eagle
+.localized		MATLAB			Processing		iChats
+Ableton			MakeHuman		REAPER Media		maya
+Adobe			Max 7			Smaart v8
+ent-v314-008:~ student$ 
+
 
 
 
@@ -79,7 +111,7 @@ What command was repeated?
 
 What command was repeated?
 ----------
-
+ent-v314-008:~ student$ 
 
 
 ==========
@@ -89,6 +121,9 @@ $ ls /Vol<TAB><ENTER>
 
 What is the result of pressing tab?
 ----------
+ent-v314-008:~ student$ ls /Volumes/
+Macintosh HD		firmwaresyncd.62QYtk
+ent-v314-008:~ student$ 
 
 
 
@@ -99,13 +134,14 @@ $ ls doesnotexist
 
 Copy and paste the output below.
 ----------
-
+ent-v314-008:~ student$ ls doesnotexist
+ls: doesnotexist: No such file or directory
 
 
 ==========
 9.  What key do I press to go to the previous command?
 ----------
-
+up
 
 
 ==========
