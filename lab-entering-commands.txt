@@ -165,7 +165,7 @@ ls
 ==========
 13.  Name one argument that we passed to the command.
 ----------
-
+$ ls -l Documents<ENTER>
 
 
 ==========
