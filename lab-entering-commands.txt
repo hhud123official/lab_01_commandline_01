@@ -159,7 +159,7 @@ up
 ==========
 12.  What was the main command that we used throughout this exercise?
 ----------
-
+ls
 
 
 ==========
