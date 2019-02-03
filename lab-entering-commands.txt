@@ -153,7 +153,7 @@ up
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
 ----------
-
+shift
 
 
 ==========
@@ -175,7 +175,8 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
+-bash: foo: command not found
+MAXXs-MBP:~ maxxadorno$ 
 
 
 ==========
@@ -185,6 +186,9 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
+-bash: foo: command not found
+MAXXs-MBP:~ maxxadorno$ 
+
 
 
 
