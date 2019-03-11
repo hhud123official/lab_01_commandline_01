@@ -199,3 +199,4 @@ $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
 ----------
+$ is the prompt, ls is the comman, -a desktop is the argument
